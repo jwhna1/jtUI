@@ -1,0 +1,5 @@
+#include "hui/widgets/basic/icon.hpp"
+#include "hui/widgets/basic/panel.hpp"
+#include "hui/widgets/basic/text.hpp"
+#include "hui/widgets/basic/title_bar.hpp"
+#include "hui/widgets/basic/window_frame.hpp"
