@@ -345,7 +345,7 @@ Released under the [MIT License](LICENSE). Commercial use is welcome — fork fr
 
 ## Credits
 
-- **jtai team**, led by Zeng Nenghun (`jwhna1@gmail.com`). The project started March 2025 with the explicit goal of bringing Vue-like ergonomics to native C++ desktop development.
+- **jtai team**, led by Zeng Nenghun&Tang XianSheng (https://jtai.cc) (`jwhna1@gmail.com&tang@lhht.cc`). The project started March 2025 with the explicit goal of bringing Vue-like ergonomics to native C++ desktop development.
 - **Icons**: [`@vscode/codicons`](https://github.com/microsoft/vscode-codicons) (MIT) — 649 named glyphs embedded into the binary, loaded via `IDWriteFactory5` custom font collection.
 
 ## Contributing
