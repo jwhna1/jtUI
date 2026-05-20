@@ -1,4 +1,19 @@
-# Code Of Conduct
+# Code of Conduct
+
+This project aims to maintain a stable, respectful, and collaborative working environment.
+
+Every participant is expected to:
+
+- Discuss problems directly, not the people behind them.
+- Respect contributors of all backgrounds and experience levels.
+- Provide concrete context when pointing out risks.
+- Not shift communication burden onto others.
+
+If clearly disrespectful behavior, harassment, malicious attacks, or sustained disruption of collaboration occur, the maintainers may restrict the offending party's participation.
+
+---
+
+# 行为准则
 
 这个项目希望保持一个稳定、尊重、愿意协作的工作氛围。
 
