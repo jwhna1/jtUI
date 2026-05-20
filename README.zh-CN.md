@@ -345,7 +345,7 @@ jtUI 正在朝 `1.0` 推进。当前状态：
 
 ## Credits
 
-- **jtai 团队**，由曾能混（`jwhna1@gmail.com`）主导。项目 2025 年 3 月启动，目标是把 Vue 般的开发体感带到原生 C++ 桌面开发。
+- **jtai 团队**，由曾能混&唐先森(https://jtai.cc) (`jwhna1@gmail.com&tang@lhht.cc`)主导。项目 2025 年 3 月启动，目标是把 Vue 般的开发体感带到原生 C++ 桌面开发。
 - **图标**：[`@vscode/codicons`](https://github.com/microsoft/vscode-codicons)（MIT）—— 649 个命名 glyph 内嵌到二进制，通过 `IDWriteFactory5` 自定义字体集合加载。
 
 ## 贡献
